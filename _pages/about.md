@@ -18,7 +18,7 @@ Check our recent publications in [Google Scholar](https://scholar.google.com/cit
 ## My work and research
 My research includes
 
-# Machine learning stochastic dynamics:
+## Machine learning stochastic dynamics:
 Machine learning and stochastic dynamics have deep connections and cross-feed each other. We recenetly have developed machine-learning approaches to investigate the time evolution of stochastic dynamics: (1) propose the first approach of using the neural network alone to solve the chemical master equation; (2) characterize a type of dynamical phase transition in nonequilibrium statistical mechanics; (3) learning noise-induced transitions by multi-scaling reservoir computing.
 
 # Dynamical information theory:
@@ -63,7 +63,7 @@ Base salary 300,000-400,000 RMB/year; for those selected for the Postdoctoral In
 5.Research Assistant, Intern (second and third-year students)
 Qualifications;Long-term intern recruitment, with a basic foundation in mathematics and physics. The goal is to independently complete high-level work over a period of more than one year.
 
-## Research Group Features：
+## Research Group Features
 
 1.We seek students passionate about research, capable of independent exploration, sustained commitment, breaking through set goals, and full of curiosity. We also value students' character, honesty, perseverance in adversity, and proactive communication.
 2.We offer support for personal career development based on students' interests, a pure research environment, and ample research guidance. Students can discuss and delve deeply into the development of the field and problems with the supervisor, adjusting research directions based on common interests.
