@@ -72,5 +72,7 @@ Qualifications;Long-term intern recruitment, with a basic foundation in mathemat
 ### Application Method：
 
 Contact email:  [jamestang23@gmail.com](jamestang23@gmail.com)
+
 Email subject: "Application for Class of '24 PhD/Master's/Associate Researcher/Postdoc/Research Assistant Application" + "Name" + "School"
+
 Application materials: CV, research achievements, awards, etc., or a brief introduction of oneself.
