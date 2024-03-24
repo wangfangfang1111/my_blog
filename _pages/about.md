@@ -16,6 +16,7 @@ Check our recent publications in [Google Scholar](https://scholar.google.com/cit
 
 
 ## My work and research
+
 My research includes
 
 Machine learning stochastic dynamics:
@@ -34,6 +35,7 @@ Quantitative biology:
 To understand the complex behaviors in biological systems across scales, we have attempted to construct minimum models to describe the data and make predictions: (a) we identified computationally a molecular circuit that control necroptosis decisions such that a bimodal death-time distribution can be produced; (b) we demonstrated that chemotaxis in nutrient-replete conditions promotes the expansion of bacterial populations by modeling the physiological effect on bacterial chemotaxis.
 
 ## My background and history
+
 My research areas encompass stochastic dynamics, machine learning, statistical physics, and open quantum systems. I am honored to be a recipient of a national-level young talent program award. I earned my Bachelor's degree in Applied Mathematics from [Zhiyuan College, Shanghai Jiao Tong University](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/)in 2013, and completed my Ph.D. in Physics at the same institution in 2018,mentored by Prof.[Ping Ao](https://scholar.google.com/citations?user=JQyz-BoAAAAJ&hl=en).Between 2018 and 2021, I contributed as a postdoctoral researcher at the University of California, Los Angeles,supported by Prof. [Alexander Hoffmann](https://www.signalingsystems.ucla.edu/) and have been serving as an associate researcher at the [International Academic Center of Complex Systems](https://zkgyy.bnu.edu.cn/), Beijing Normal University, Zhuhai since 2021. My publications have appeared in prestigious journals such as [Nature Machine Intelligence](https://www.nature.com/natmachintell/), [Nature Communications](https://www.nature.com/ncomms/), [Physics Review E](https://journals.aps.org/pre/), Nature, and Nature Methods. In 2023, I was recognized as the Peng Huanwu Center Young Visiting Scientist by the Chinese Academy of Sciences. Among my recent research accomplishments are the development of evolutionary neural networks for tracking the evolution of high-dimensional stochastic reaction networks, the creation of a computational framework for analyzing the dynamic mutual information of time series, and the discovery that magnetic fields can amplify free energy in non-equilibrium quantum systems without performing any work.
 
 Positions and Requirements
