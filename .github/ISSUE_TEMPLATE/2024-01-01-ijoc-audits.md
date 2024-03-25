@@ -1,4 +1,3 @@
----
 title: "Learning nonequilibrium statistical mechanics and dynamical phase transitions" 
 category: articles
 permalink: /articles/2024-01-01
